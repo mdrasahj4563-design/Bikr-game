@@ -1,0 +1,6 @@
+{
+  "name": "Apex Moto Run",
+  "description": "An arcade highway motorcycle dodge game featuring lane-switching obstacles, coin pickups, bike upgrades, and policy-compliant opt-in rewarded continues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
